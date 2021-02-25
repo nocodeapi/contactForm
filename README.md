@@ -2,7 +2,7 @@
 
 You can use this form to test NoCodeAPI's telegram integration. A simple "POST" request to your NoCodeAPI's endpoint will send the data from this contact form to your Telegram bot.
 
-![sample](./sample.png)
+![sample](./sample_img.png)
 
 1. Download this form
 2. Create your Telegram bot.
